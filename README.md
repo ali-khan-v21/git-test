@@ -5,4 +5,6 @@
 
 Second line
 
-Changed line!!
+Changed line!
+
+Added line
